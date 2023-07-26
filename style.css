@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(pexels-edoardo-tommasini-2034851.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+
+.colors{
+    height: 1000px;
+    width:100%;
+   
+    
+}
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+    color:black ;
+    font-size: 50px;
+    transform: translateY(270px) translateX(350px);
+}
